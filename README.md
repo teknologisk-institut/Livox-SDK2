@@ -1,3 +1,6 @@
+#KCJ
+Applied PR-108 which makes this a ros2 package that can be build with colcon.
+
 # 1. Introduction
 
 Livox SDK2 is a software development kit designed for all Livox lidars such as HAP and Mid-360. It is developed based on C/C++ following Livox SDK2 Communication Protocol, and provides easy-to-use C style APIs. With the Livox SDK2, users can quickly connect to the Livox Lidars and receive point cloud data.
